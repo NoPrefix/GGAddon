@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "GrieferGames Addon",
+  "mainClass": "net.noprefix.GGAddon.GGAddon",
+  "description": "Dieses Addon fuegt einige nuetzliche Funktionen in Labymod hinzu, um ein besseres Spielerlebnis auf Griefergames zu haben!",
+  "version": 1,
+  "author": "NoPrefix",
+  "category": 1,
+  "icon": "https://noprefix.net/Griefergameslogo.png"
+}
